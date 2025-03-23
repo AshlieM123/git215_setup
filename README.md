@@ -1,2 +1,2 @@
 # git215_setup
-##Author: Ashlie_Middleton
+##Author: Ashlie Middleton
